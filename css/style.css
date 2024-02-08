@@ -1,0 +1,17 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+/* navbar */
+.navbar-background{
+    background-color: #f5f5f5;
+    /* box-shadow: 5px 5px 2px rgb(188, 185, 185); */
+    border-bottom: 1px solid black;
+    font-weight: bold;
+    
+
+}
+/* home */
+.sticky-top {
+    box-shadow: 4px 4px 2px rgb(239, 219, 219);
+  }
