@@ -15,3 +15,9 @@
 .sticky-top {
     box-shadow: 4px 4px 2px rgb(239, 219, 219);
   }
+.home-margin-top{
+    margin-top: 100px;
+}
+#home{
+    background-color: #efecec;
+}
